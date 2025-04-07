@@ -30,15 +30,15 @@ I then soldered:
 ![Soldering completed](back_completed.jpg)
 
 ## Challenges and Solutions
-### Reversed Diodes
+Reversed Diodes:
 - Challenge: I found out why people reccomend using magnifying lenses, I had found that some diodes were reversed when I was not careful about the orientation of the diodes. [Video showing diodes were reversed](https://youtu.be/mBb5se6Coak)
 - Solution: Since I only had a small hand held magnifying glass which would have not been practicle to use while soldering; I decided to paint the left side of the diodes while they were still in the packaging and double checked that the orientations were the same for all of them with my magnifying glass, so that I can proceed to solder the diodes for the second half without issue.
 
-### Mismatched Battery Connection
+Mismatched Battery Connection:
 - Challenge: While trying to find a reputable source of batteries that shipped to New Zealand and also met the specific requirements noted in the Nice!Nano docs. I had negletced that there are multiple types of JST connections. 
 - Solution: To resolve the issue that my battery would not connect to my board, I carefully cut the wires making sure they do not touch, crimped on JST ph connecters, and was able to use the batteries.
 
-### Bluetooth Connectivity Issue
+Bluetooth Connectivity Issue:
 - Challenge: For some reason the bluetooth was only able to connect to some devices and even then it was not consistant.
 - Solution: While a wireless keyboard could have been useful in specific circumstances, it was a nice to have from the start and not necessary, so was not pursued further.
 
